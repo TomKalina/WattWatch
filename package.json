@@ -1,10 +1,10 @@
 {
-  "name": "{{moduleName}}",
+  "name": "wattwatch",
   "version": "0.1.0",
-  "description": "{{description}}",
+  "description": "WattWatch provides **real-time visibility into estimated energy usage",
   "author": {
-    "name": "{{authorName}}",
-    "email": "{{authorEmail}}"
+    "name": "Tomáš Kalina",
+    "email": "info@tomaskalina.cz"
   },
   "type": "module",
   "exports": {
@@ -37,5 +37,6 @@
     "prettier": "^3.2.4",
     "typescript-eslint": "^8.47.0",
     "vitest": "^3.2.4"
-  }
+  },
+  "packageManager": "yarn@3.8.1+sha512.8cfec856814c797ccb480703ca5270824327fac5abce240835e2699e01732229fd22bbeb1bb87047a0069f7698be9b2e3d9a926e6046e851faa9908fdacdeacf"
 }
